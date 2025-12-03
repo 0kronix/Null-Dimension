@@ -8,7 +8,7 @@
     <trinket name="Spider Cocoon" description="There is a spider hidden under coin!" gfx="spidercocoon.png" />
     <trinket name="Dirt Ball" description="Messy mess" gfx="dirtball.png" />
     <trinket name="Smile Sticker" description="Only smile =)" gfx="smilesticker.png" tags="nogreed" />
-    <trinket name="Spartan Rage" description="Power of the Colosseum" gfx="blank.png" tags="nogreed" />
+    <trinket name="Spartan Rage" description="Power of the Colosseum" gfx="spartanrage.png" tags="nogreed" />
     <trinket name="Key Cloner" description="1+1=3" gfx="blank.png" />
     <trinket name="Devil's Delivery" description="Advantageous offer" gfx="blank.png" />
     <trinket name="8-bit Mush" description="Size down" gfx="8bitmush.png" />
@@ -22,4 +22,5 @@
     <trinket name="Collectable Card" description="Collect em all" gfx="blank.png" />
     <trinket name="Chameleon's Eye" description="Colorful eye" gfx="blank.png" />
     <trinket name="Caramel Bean" description="Taste of death" gfx="blank.png" />
+    <trinket name="Play Pass" description="V. I. P." gfx="blank.png" tags="nogreed" />
 </items>

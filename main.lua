@@ -41,6 +41,7 @@ local trinketScripts = {
     "collectablecard",
     "chameleonseye",
     "caramelbean",
+    "playpass",
 }
 mod:LoadScripts(trinketScripts, "trinkets")
 
